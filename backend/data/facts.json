@@ -1,0 +1,21 @@
+{
+    "full_name": "Bautista Callander",
+    "name": "Bautista",
+    "current_role": "Software Engineer",
+    "location": "San Francisco, CA",
+    "email": "bautista@callander.com",
+    "linkedin": "linkedin.com/in/bautistacallander",
+    "specialties": [
+      "Software Engineering",
+      "AI",
+      "Machine Learning"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of California, Berkeley",
+        "year": "2020"
+      }
+    ]
+  }
